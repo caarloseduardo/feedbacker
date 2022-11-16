@@ -93,7 +93,7 @@ import services from '@/services'
 import { setApiKey } from '@/store/user'
 import useStore from '@/hooks/useStore'
 
-import palette from '../../palette'
+import palette from '../../../palette'
 
 export default {
   components: { ContentLoader, HeaderLogged, Icon },

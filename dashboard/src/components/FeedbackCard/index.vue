@@ -56,7 +56,7 @@ import Badge from './Badge'
 import { getDiffTimeBetweenCurrentDate } from '@/utils/date'
 import { wait } from '@/utils/timeout'
 
-import palette from '../../palette'
+import palette from '../../../palette'
 
 export default {
   components: { Badge, Icon },
